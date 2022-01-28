@@ -1,6 +1,6 @@
-# FRF ARGUS c1 Segementation App
+# FRF ARGUS c1 Segmentation App
 
-This is a deployed app to segement ARGUS imagery from FRF camera 1 (facing north). 
+This is a deployed app to segment ARGUS imagery from FRF camera 1 (facing north) using a deep learning model. 
 
 There are 4 classes: 
 1. Water + buildings + background
